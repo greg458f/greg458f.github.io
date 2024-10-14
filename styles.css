@@ -16,6 +16,11 @@ header {
     padding: 20px;
 }
 
+header img {
+    display: flex;
+    align-items: left;
+}
+
 .logo h1 {
     font-size: 64px;
     font-family: 'Times New Roman', serif;
