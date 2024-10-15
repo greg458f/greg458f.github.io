@@ -16,23 +16,6 @@ header {
     padding: 20px;
 }
 
-/* Zara Logo */
-.logo {
-    max-width: 400px;
-    margin-right: 1000px;
-    height: auto;
-    display: inline-flex;
-}
-
-/* Header and Navigation */
-.nav-bar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 10px;
-    position: relative;
-
-}
 .logo h1 {
     font-size: 64px;
     font-family: 'Times New Roman', serif;
